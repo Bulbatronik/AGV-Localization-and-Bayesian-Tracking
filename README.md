@@ -26,9 +26,8 @@ EKF is used for Gaussian pdf’s and nonlinear models. We linearize the model ar
 Random walk model uses a driving process of zero-mean random velocity, which is a suitable model for a pedestrian but not for a car. Nearly Constant Velocity Model and Nearly Constant Acceleration Model are suitable for a car. However, Nearly Constant Velocity model cannot perform well during sharp turns, quick stops or accelerations. We implemented both of the models and showed why Nearly Constant Velocity is performing worse. We also used ellipses to quantify the uncertainty of a-priori and a-posteriori prediction on the AUG's position. 
 The final results of the simulation are available in the [Report.pdf](Project/Report.pdf). A quick demo of the tracking is available here:
 
-<iframe src="https://drive.google.com/file/d/1V4K-1m98SW36MdO_wrS5hkyRIjSRFdVu/preview" width="640" height="480" allow="autoplay"></iframe>
-
+[Watch the demo video](https://drive.google.com/file/d/1V4K-1m98SW36MdO_wrS5hkyRIjSRFdVu/preview).
 
 
 ## Appendix
-The repository also includes a set of lab and homework matirials on usefull algorithms for object localization inside [`Labs`](Labs) folder. The  
+The repository also includes a set of lab and homework matirials on usefull algorithms for object localization inside [`Labs`](Labs) folder. The topics include [maximum likelihood (ML) estimation](Labs/1-Static%20Localization/), [lower boiund and iterative methods](Labs/2-Cramer-Rao%20Bound%20and%20iterative%20NLS/), [Kalman filter](Labs/3-Kalman%20filter/) and [Extended Kalman filter](Labs/4-Extended%20Kalman%20Filter/), [Particle filter](Labs/5-Particle%20filter/), as well as an example op [Satellite localization](Labs/6-Satellite%20localization/)  
