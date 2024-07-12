@@ -1,5 +1,5 @@
 # Localization and Bayesian Tracking of an Automatic Guided Vehicle
-
+*Developed with Esat Ince*.
 ## Overview
 
 The project required to perform the localization of an automated guided vehicle (AUG) using ultra-wide band signals (UWB). In particular, two different methods of localization should be compared, namely snapshot/static localization techniques and Bayesian Tracking.
