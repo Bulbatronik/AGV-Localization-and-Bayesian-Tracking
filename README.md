@@ -26,7 +26,8 @@ EKF is used for Gaussian pdf’s and nonlinear models. We linearize the model ar
 Random walk model uses a driving process of zero-mean random velocity, which is a suitable model for a pedestrian but not for a car. Nearly Constant Velocity Model and Nearly Constant Acceleration Model are suitable for a car. However, Nearly Constant Velocity model cannot perform well during sharp turns, quick stops or accelerations. We implemented both of the models and showed why Nearly Constant Velocity is performing worse. We also used ellipses to quantify the uncertainty of a-priori and a-posteriori prediction on the AUG's position. 
 The final results of the simulation are available in the [Report.pdf](Project/Report.pdf). A quick demo of the tracking is available here:
 
-[![Watch the video](https://img.youtube.com/vi/THE_VIDEO_ID/maxresdefault.jpg)](https://docs.google.com/file/d/1V4K-1m98SW36MdO_wrS5hkyRIjSRFdVu/view?pli=1)
+<iframe src="https://drive.google.com/file/d/1V4K-1m98SW36MdO_wrS5hkyRIjSRFdVu/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 
 ## Appendix
