@@ -1,4 +1,4 @@
-# Localization and Bayesian Tracking of an Automatic Guided Vehicle
+<h1 align="center">Localization and Bayesian Tracking of an Automatic Guided Vehicle</h1>
 *Developed with Esat Ince*.
 ## Overview
 
