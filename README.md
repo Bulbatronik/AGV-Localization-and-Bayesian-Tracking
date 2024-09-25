@@ -4,7 +4,7 @@
 
 ## Overview
 
-The project required to perform the localization of an automated guided vehicle (AUG) using ultra-wide band signals (UWB). In particular, two different methods of localization should be compared, namely snapshot/static localization techniques and Bayesian Tracking.
+The project required to perform the localization of an automated guided vehicle (AGV) using ultra-wide band signals (UWB). In particular, two different methods of localization should be compared, namely snapshot/static localization techniques and Bayesian Tracking.
 
 ## Our approach
 ### 1. Dataset 
